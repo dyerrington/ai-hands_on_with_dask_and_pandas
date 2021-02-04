@@ -86,7 +86,7 @@ The Dask Juptyerlab Extension is sometimes finicky to get to work correctly with
 ![](https://snipboard.io/ZF7u2N.jpg)
 
 
-> Because of the class size, we will offer minimal support for this feature.  I highly recommend that if you are having issues with this feature to kindly start a thread and solicitic help from each other on Slack while we are live within our session.  **Remember, it's a nice to have.  You can always view the exact same thing in a new browser tab rather than in your Jupyterlab instance.**
+> Because of the class size, we will offer minimal support for this feature.  I highly recommend that if you are having issues with this feature kindly start a thread and solicitic help from each other on Slack while we are live within our session.  **Remember, it's a nice to have.  You can always view the exact same thing in a new browser tab rather than in your Jupyterlab instance.**
 
 ## 6. Jupyter Lab
 
