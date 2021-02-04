@@ -65,9 +65,10 @@ conda activate ai-dask
 The packages we will be using are easy to install:
 ```bash
 pip install mimesis
+conda install fastparquet
 ```
 
-The mimesis library is a dependency for a data generation method with Dask that will use.  You just need to install it with pip.
+The mimesis library is a dependency for a data generation method with Dask that will use.  You just need to install it with pip. Pyarrow is a library for saving and readying Parquet files used in the big data ecosystem.
 
 
 ## 4. GraphViz (optional but nice to have)
