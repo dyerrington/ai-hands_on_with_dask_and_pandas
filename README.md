@@ -6,7 +6,7 @@ Working on a single computer limits how much and how fast you can process data. 
 
 If you use Python for data analysis in any capacity and want to work with datasets bigger than your computer can handle but have been unsure where to start, this is for you.
 
-> The majority of our session will be in Jupyter notebooks and writing code hands-on. Please review the environment setup ahead of time.
+> The majority of our session will be in Jupyter notebooks and writing code hands-on. Please review the [environment setup guide](./environment.md) ahead of time.  Also, check back prior to session for updated notebook commits!
 
 ## Learning Objectives
 
